@@ -9,7 +9,9 @@ I am passionate about AI, full-stack development (mostly backend), and love expe
 
 I am currently writing my master's thesis on AI regulation, interviewing technology companies to assess their readiness and gather insights on the topic.
 
-On the side, I am developing a personal full-stack project using Docker and Docker Compose to experiment with running a complete system end-to-end. The frontend is built with React + Vite, the backend with ASP.NET Core, and PostgreSQL as the database. 
+On the side, I am developing a personal full-stack [project](https://github.com/amrapstad/backend-frontend-pj) using Docker and Docker Compose to experiment with running a complete system end-to-end. The frontend is built with React + Vite, the backend with ASP.NET Core, and PostgreSQL as the database. 
+
+Additionally I am also investing some time into game development in Unity [Click here](https://github.com/amrapstad/tba_game_repository) to satisfy my creative side.
 
 ### 🌱 What I am learning
 
