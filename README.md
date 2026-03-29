@@ -11,7 +11,7 @@ I am currently writing my master's thesis on AI regulation, interviewing technol
 
 On the side, I am developing a personal full-stack [project](https://github.com/amrapstad/backend-frontend-pj) using Docker and Docker Compose to experiment with running a complete system end-to-end. The frontend is built with React + Vite, the backend with ASP.NET Core, and PostgreSQL as the database. 
 
-Additionally I am also investing some time into game development in Unity [Click here](https://github.com/amrapstad/tba_game_repository) to satisfy my creative side.
+Additionally I am also investing some time into game development in Unity to satisfy my creative side [Repo](https://github.com/amrapstad/tba_game_repository).
 
 ### 🌱 What I am learning
 
