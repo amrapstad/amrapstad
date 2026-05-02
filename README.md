@@ -15,6 +15,6 @@ Additionally I am also investing some time into game development in Unity to sat
 
 ### 🌱 What I am learning
 
-I am currently exploring AI workflows for agentic coding with Antigravity + Claude Code, AI workflow automation in N8N, and deepening my understanding of Docker.
+I am currently exploring AI workflows for agentic coding with Antigravity + Claude Code and deepening my understanding of Docker.
 
 Down the road, I am hoping to get into Kubernetes as well.
